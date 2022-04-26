@@ -23,4 +23,5 @@ Here are some ideas to get you started:
 <!-- ![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white) -->
 <!-- ![React](https://img.shields.io/badge/-React-222222?style=for-the-badge&logo=react) -->
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=huisu&theme=vue&show_icons=true)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=huisu-noh&theme=vue&show_icons=true)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=huisu-noh&hide=python)](https://github.com/anuraghazra/github-readme-stats)
