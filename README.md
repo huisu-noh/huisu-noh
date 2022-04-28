@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<p>Hi! I'm huisu. I am studying because I want to become a front-end developer. I like to learn new things. </p>
+<p>Hi! I'm huisu. I want to become a front-end developer. I like to learn new things. </p>
 
 <h2> My tech stack :blossom:</h2>
 
