@@ -1,4 +1,4 @@
-<h1> Hello :baby_chick: </h1>
+<h1> Hello </h1>
 
 <!--
 **huisu-noh/huisu-noh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
