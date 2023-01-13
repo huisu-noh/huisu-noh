@@ -27,4 +27,6 @@ Here are some ideas to get you started:
 
 <h2> another :blossom:</h2>
 
+![a little chinese](https://img.shields.io/badge/%20a%20little-chinese-red)
+
 
