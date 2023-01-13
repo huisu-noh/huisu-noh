@@ -27,7 +27,4 @@ Here are some ideas to get you started:
 
 <h2> another :blossom:</h2>
 
-![a little chinese](https://img.shields.io/badge/%20a%20little-chinese-red)
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=huisu-noh&theme=vue&show_icons=true)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=huisu-noh&hide=python)](https://github.com/anuraghazra/github-readme-stats)
